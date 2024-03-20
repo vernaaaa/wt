@@ -1,0 +1,14 @@
+itemname
+{
+	color:red;
+	font-family:"Copperplate Gothic Light";
+	font-style:bold;
+	font-size:16pt;
+}
+itemprice,quantity
+{
+	color:Yellow;
+	font-family:"Arial";
+	font-style:bold;
+	font-size:12pt;
+}

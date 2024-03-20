@@ -1,0 +1,32 @@
+<MovieInfo>
+<Movie>
+<Movieno>1</Movieno>
+<Movietitle>War</Movietitle>
+<Actorname>Hritik Roshan</Actorname>
+<year>2019</year>
+</Movie>
+<Movie>
+<Movieno>2</Movieno>
+<Movietitle>Shershah</Movietitle>
+<Actorname>Siddharth Malhotra</Actorname>
+<year>2021</year>
+</Movie>
+<Movie>
+<Movieno>3</Movieno>
+<Movietitle>3Idiots</Movietitle>
+<Actorname>Boman Irani</Actorname>
+<year>2013</year>
+</Movie>
+<Movie>
+<Movieno>4</Movieno>
+<Movietitle>Jawan</Movietitle>
+<Actorname>Shahrukh Khan</Actorname>
+<year>2023</year>
+</Movie>
+<Movie>
+<Movieno>5</Movieno>
+<Movietitle>Sambahadur</Movietitle>
+<Actorname>Vicky Kaushal</Actorname>
+<year>2023</year>
+</Movie>
+</MovieInfo>

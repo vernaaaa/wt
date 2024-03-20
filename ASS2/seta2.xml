@@ -1,0 +1,28 @@
+<?xml-stylesheet type="text/css" href="mystyle.css"?>
+<items>
+<item>
+<itemname>Cleanser</itemname>
+<itemprice>250</itemprice>
+<quantity>3</quantity>
+</item><br></br>
+<item>
+<itemname>Tooth Paste</itemname>
+<itemprice>70</itemprice>
+<quantity>15</quantity>
+</item>
+<item>
+<itemname>Shampoo</itemname>
+<itemprice>300</itemprice>
+<quantity>5</quantity>
+</item>
+<item>
+<itemname>Brush</itemname>
+<itemprice>20</itemprice>
+<quantity>50</quantity>
+</item>
+<item>
+<itemname>Soap</itemname>
+<itemprice>30</itemprice>
+<quantity>60</quantity>
+</item>
+</items>
